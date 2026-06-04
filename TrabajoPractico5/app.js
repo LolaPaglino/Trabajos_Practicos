@@ -1,8 +1,28 @@
-let numero1 = 25;
-let numero2 = 23;
-let resultado
+let suma = 0;
+let resta = 0;
+let multiplicacion = 0;
+let division = 0;
 
-resultado = numero1 + numero2;
+let numero1 =  2;
+let numero2 = 4;
 
-console.log(resultado);
-alert(resultado)
+suma = numero1+numero2;
+resta = numero2-numero1;
+multiplicacion= numero1 * numero2;
+division= numero2/numero1;
+
+
+alert("el resultado de la suma es:"+ suma)
+alert("el resultado de la resta es:"+resta)
+console.log(" el resultado de la division es:"+ division);
+console.log("el resultado de la multiplicacion es:"+multiplicacion)
+
+let nombrealumno ="lola";
+let apellido ="paglino" ;
+let edad = 14
+console.log("el alumno es:"+ nombrealumno+" "+ apellido +" y tiene "+ edad)
+
+ let precio1 = 10
+ let precio2 = 5
+ let precio3 = 20
+ let total = precio1 + precio2 + precio3
