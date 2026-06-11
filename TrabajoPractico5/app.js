@@ -1,8 +1,8 @@
+//TP5
 let suma = 0;
 let resta = 0;
 let multiplicacion = 0;
 let division = 0;
-
 let numero1 = 2;
 let numero2 = 4;
 
@@ -20,7 +20,7 @@ console.log("el resultado de la multiplicacion es:"+multiplicacion)
 let nombrealumno ="lola";
 let apellido ="paglino" ;
 let edad = 14
-console.log("el alumno es:"+ nombrealumno+" "+ apellido +" y tiene "+ edad)
+console.log("la alumno es:"+ nombrealumno+" "+ apellido +" y tiene "+ edad)
 
  let precio1 = 10
  let precio2 = 5
