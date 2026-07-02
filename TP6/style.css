@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+    color: cadetblue;
+    font-family: Arial;
+    display: flex;
+    flex-direction: column;
+    justify-content: column;
+    justify-content:space-between;
+    align-items: center;
+    height: 100px;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    height: 100px;
+}
+
+.parrafo{
+    width: 1000px;
+    color: cornflowerblue;
+}
+
+button{
+    background-color: rgb(16, 163, 163);
+    color: whitesmoke;
+    padding: 45px;
+    border: none;
+    border-radius: 45px;
+}
+
+button:hover{
+    background-color: rgb(50, 117, 218);
+    color: violet;
+}
