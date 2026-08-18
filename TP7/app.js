@@ -28,8 +28,8 @@ let nombre = "Nahuel"
 
 botonej3.onclick = function () {  
     if ((nombre=="Nahuel")||(nombre =="Marcos")){
-        elementoej3.textContent = "Bienvenido Nahuel ¿como estas?"
+        elementoej3.textContent = "bienvenido"+ nombre + "¿como estas?"
     } else {
-        elementoej3.textContent = "bienvenido usuario"
+        elementoej3.textContent = "bienvenido" + nombre 
     }
 }
